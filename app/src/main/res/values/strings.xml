@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickrFeed</string>
+    <string name="loading">Loading…</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="imgLoaded">Loaded Image</string>
+    <string name="noData">No data</string>
+</resources>
